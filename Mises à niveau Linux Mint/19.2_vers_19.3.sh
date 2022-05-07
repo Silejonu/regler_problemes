@@ -24,5 +24,5 @@ if [[ $un_deux == 2 ]] ; then
   sudo apt purge -y xplayer tomboy
   sudo apt autoremove -y
   gsettings set org.cinnamon.desktop.session idle-delay 900
-  echo 'Mise à niveau terminée, merci d’activir XApp.'
+  echo 'Mise à niveau terminée, merci d’activir XApp dans les Applets.'
 fi
