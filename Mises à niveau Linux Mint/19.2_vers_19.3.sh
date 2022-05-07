@@ -6,10 +6,13 @@ echo 'Taper 2 pour lancer la partie APRÈS la mise à niveau.'
 read -r un_deux
 
 if [[ $un_deux == 1 ]] ; then
+  echo 'Lancement du script de pré-mise à niveau, puis redémarrage de l’ordinateur.'
+  sleep 5
   sudo mintupdate-cli -ry upgrade
   sudo mintupdate-cli -ry upgrade
   sudo apt autoremove -y
   gsettings set org.cinnamon.desktop.session idle-delay 0
+  sudo reboot
 fi
 
 if [[ $un_deux == 2 ]] ; then
