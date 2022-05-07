@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
 ### Adapter le script aux nouvelles versions du pilote (URL, nom de l’archive, etc.)
+### Les pilotes Linux sont disponibles à cette adresse : http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 
 # Se déplacer dans un répertoire temporaire
 cd $(mktemp -d)
