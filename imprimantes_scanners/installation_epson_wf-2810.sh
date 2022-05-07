@@ -26,4 +26,4 @@ chmod +x epsonscan2-bundle-6.6.40.0.x86_64.deb/install.sh
 # Supprimer le répertoire de l’installeur
 
 echo 'Installation terminée.'
-echo 'Utiliser le « Numérisateur de documents » pour scanner.'
+echo 'Utiliser le « Numériseur de documents » pour scanner.'
