@@ -6,6 +6,5 @@ Disponible dans le BIOS. L’option est parfois cachée. À ce moment-là, faire
 
 ## Touches de clavier Apple inversées sous Linux
 
-[Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
-
-[Solution de repli](https://askubuntu.com/a/572670)
+1. [Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
+2. [Solution de repli](https://askubuntu.com/a/572670)
