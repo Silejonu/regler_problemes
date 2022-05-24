@@ -15,9 +15,11 @@ sudo mysql --execute="CREATE USER \"${utilisateur}\"@localhost IDENTIFIED BY \"$
 #echo "Entrer le mot de passe du compte MySQL "${utilisateur}" :"
 sudo mysql --password="${mot_de_passe_mysql}" --execute="GRANT ALL PRIVILEGES ON *.* TO \"${utilisateur}\"@localhost;"
 
-cat << EOF
-Laurux installé avec succès.
+echo
+echo 'Laurux installé avec succès.'
+echo
 
+cat << EOF
 Se connecter à la base de donnée MySQL dans Laurux :
 Nom d’utilisateur MySQL : ${utilisateur}
 Mot de passe MySQL : ${mot_de_passe_mysql}
