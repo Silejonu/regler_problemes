@@ -27,6 +27,8 @@ Au moment de se connecter à un compte Microsoft, débrancher la connexion inter
 
 # Systèmes d’exploitation utiles
 
+Installer [Ventoy](https://ventoy.net/) sur une clé USB, puis copier/coller les images `.iso` sur la clé pour les démarrer. *Ne pas oublier de mettre à jour Ventoy régulièrement !*
+
 ## Usage quotidien
 - [Linux Mint Cinnamon](https://linuxmint.com/), pour des débutants
 - [Ubuntu LTS](https://www.ubuntu-fr.org/), pour des débutants
