@@ -7,6 +7,9 @@ Paramètres -> Général -> Paramètres réseau -> Détection automatique des pa
 ### Chrome
 Paramètres -> Paramètres avancés -> Système -> Accéder aux paramètres de proxy de votre ordinateur -> activer le mode automatique pour le proxy du réseau
 
+### macOS
+🍎 -> Préférences Système… -> Réseau -> Avancé… -> Proxys -> Découverte auto proxy
+
 ## Désactiver Intel RST
 Disponible dans le BIOS. L’option est parfois cachée. À ce moment-là, faire `Ctrl + s` pour la faire apparaître.
 
