@@ -46,7 +46,7 @@ Installer [Ventoy](https://ventoy.net/) sur une clé USB, puis copier/coller les
 - [Finnix](https://www.finnix.org/), nombreux outils de dépannage en ligne de commande
 - [Memtest86+](https://www.memtest.org/), testeur de RAM
 - [Rescatux](https://www.supergrubdisk.org/category/download/rescatuxdownloads/rescatux-stable/), nombreux outils de dépannage en graphique, notamment pour changer les mots de passe utilisateur sous Windows et Linux
-- [SeaTools Bootable](https://www.seagate.com/fr/fr/support/downloads/seatools/), vérification de l’état de santé des SSD
+- [SeaTools Bootable](https://www.seagate.com/fr/fr/support/downloads/seatools/), vérification de l’état de santé des SSD (ne fonctionne pas avec Ventoy)
 - [Super Grub2 Disk](https://www.supergrubdisk.org/category/download/supergrub2diskdownload/super-grub2-disk-stable/), démarrer un système Linux ou Windows qui ne démarre plus
 
 ## ROMs Android
