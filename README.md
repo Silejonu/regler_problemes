@@ -24,7 +24,7 @@ Au moment de se connecter à un compte Microsoft, débrancher la connexion inter
 
 # Systèmes d’exploitation utiles
 
-## Bureautique
+## Usage quotidien
 - [Linux Mint Cinnamon](https://linuxmint.com/), pour des débutants
 - [Ubuntu LTS](https://www.ubuntu-fr.org/), pour des débutants
 - [Linux Mint XFCE](https://linuxmint.com/), distribution légère, pour des débutants
