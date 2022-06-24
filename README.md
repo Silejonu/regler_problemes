@@ -44,6 +44,11 @@ Au moment de se connecter à un compte Microsoft, débrancher la connexion inter
 - [SeaTools Bootable](https://www.seagate.com/fr/fr/support/downloads/seatools/), vérification de l’état de santé des SSD
 - [Super Grub2 Disk](https://www.supergrubdisk.org/category/download/supergrub2diskdownload/super-grub2-disk-stable/), démarrer un système Linux ou Windows qui ne démarre plus
 
+## ROMs Android
+- [LineageOS](https://lineageos.org/), Android stock, supporte des appareils plus supportés par les constructeurs
+- [/e/](https://e.foundation/fr/), Android sans Google
+- [GrapheneOS](https://grapheneos.org/), Android renforcé pour la sécurité
+
 ## Autres
 - [WinPE Sergei Strelec](https://sergeistrelec.ru/), Windows 8/10 en live
 - [Kali Linux](https://www.kali.org/), tests de sécurité (pentesting)
