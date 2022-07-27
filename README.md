@@ -50,7 +50,7 @@ Installer [Ventoy](https://ventoy.net/) sur une clé USB, puis copier/coller les
 - [Super Grub2 Disk](https://www.supergrubdisk.org/category/download/supergrub2diskdownload/super-grub2-disk-stable/), démarrer un système Linux ou Windows qui ne démarre plus
 
 ## ROMs Android
-- [LineageOS](https://lineageos.org/), Android stock, supporte des appareils plus supportés par les constructeurs
+- [LineageOS](https://lineageos.org/), Android stock, supporte des appareils abandonnés par leur constructeur
 - [/e/](https://e.foundation/fr/), Android sans Google
 - [GrapheneOS](https://grapheneos.org/), Android renforcé pour la sécurité
 
