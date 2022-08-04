@@ -25,9 +25,9 @@ Au moment de se connecter à un compte Microsoft, débrancher la connexion inter
 - Au moment de se connecter à un réseau, ouvrir le gestionnaire de tâches en appuyant sur `Ctrl + Maj. + Échap.` ; ou bien en appuyant sur `Maj. + F10`, puis en tapant `taskmgr`. Ensuite, tuer le processus `Network Connection Flow`.
 - Lorsque l’écran « Il est temps de vous connecter à un réseau » apparaît, appuyer sur `Alt + F4`.
 
-## Imprimante non reconnue sous Linux
+## Imprimante ou scanner non reconnu sous Linux
 
-Commencer par suivre les instructions disponibles sur [la documentation Ubuntu francophone](https://doc.ubuntu-fr.org/imprimante#installation_selon_la_marque).
+Des scripts pour faire fonctionner les modèles déjà rencontrés sont disponibles [dans ce dossier](https://github.com/at2f/regler_problemes/tree/main/Imprimantes%20%26%20scanners). Pour les autres modèles, suivre les instructions disponibles sur [la documentation Ubuntu francophone](https://doc.ubuntu-fr.org/imprimante#installation_selon_la_marque).
 
 # Systèmes d’exploitation utiles
 
