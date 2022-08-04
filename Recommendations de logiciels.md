@@ -1,5 +1,20 @@
+# Légende
+<img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"> Logiciel fonctionnant sur Linux
+
+<img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"> Logiciel fonctionnant sur macOS
+
+<img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20"> Logiciel fonctionnant sur Windows
+
+<img title="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="20"> Logiciel fonctionnant sur Android
+
+<img title="Logiciel libre" src="https://opensource.org/files/osi_symbol_0.png" height="20"> Logiciel libre
+
+<img title="Logiciel propriétaire" src="https://raw.githubusercontent.com/google/material-design-icons/master/png/action/lock/materialiconstwotone/48dp/1x/twotone_lock_black_48dp.png" height="20"> Logiciel propriétaire
+
+<img title="Logiciel en ligne de commande" src="https://raw.githubusercontent.com/google/material-design-icons/master/png/action/terminal/materialiconstwotone/48dp/1x/twotone_terminal_black_48dp.png" height="20"> Logiciel en ligne de commande
+
 ## Informations système
-- **CPU-X** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"> <img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"> <img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20"> <img title="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="20"> <img title="Logiciel libre" src="https://opensource.org/files/osi_symbol_0.png" height="20"> <img title="Logiciel propriétaire" src="https://opensource.org/files/osi_symbol_0.png" height="20">
+- **CPU-X**
 - **inxi -F**
 
 ## Bloqueur de publicités
