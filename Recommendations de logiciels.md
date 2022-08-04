@@ -1,6 +1,18 @@
 ## Informations système
-- CPU-X
+- CPU-X <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"> <img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"> <img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20"> <img title="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="20"> <img title="Logiciel libre" src="https://opensource.org/files/osi_symbol_0.png" height="20"> <img title="Logiciel propriétaire" src="https://opensource.org/files/osi_symbol_0.png" height="20">
 - inxi -F
+
+## Bloqueur de publicités
+- uBlock Origin
+- ~AdBlock Plus~
+
+## Antivirus
+- Microsoft Defender
+- ~Avast~
+
+## VPN
+- ProtonVPN
+- Mullvad
 
 ## Moniteur système
 - htop
@@ -59,7 +71,7 @@
 - Aegisub
 
 ## Nettoyage
-- ~~CCleaner~~, a été racheté par un consortium chinois, est devenu un spyware.
+- ~CCleaner~, a été racheté par un consortium chinois, est devenu un spyware.
 - rmlint
 - gdu
 - Czkawka
