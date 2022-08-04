@@ -64,4 +64,4 @@ Installer [Ventoy](https://ventoy.net/) sur une clé USB, puis copier/coller les
 
 # Recommendations de logiciels
 
-
+Voir [ici](https://github.com/at2f/regler_problemes/blob/main/Recommendations%20de%20logiciels.md).
