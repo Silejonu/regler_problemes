@@ -25,6 +25,10 @@ Au moment de se connecter à un compte Microsoft, débrancher la connexion inter
 - Au moment de se connecter à un réseau, ouvrir le gestionnaire de tâches en appuyant sur `Ctrl + Maj. + Échap.` ; ou bien en appuyant sur `Maj. + F10`, puis en tapant `taskmgr`. Ensuite, tuer le processus `Network Connection Flow`.
 - Lorsque l’écran « Il est temps de vous connecter à un réseau » apparaît, appuyer sur `Alt + F4`.
 
+## Imprimante non reconnue sous Linux
+
+Commencer par suivre les instructions disponibles sur [la documentation Ubuntu francophone](https://doc.ubuntu-fr.org/imprimante#installation_selon_la_marque).
+
 # Systèmes d’exploitation utiles
 
 Installer [Ventoy](https://ventoy.net/) sur une clé USB, puis copier/coller les images `.iso` sur la clé pour les démarrer. *Ne pas oublier de mettre à jour Ventoy régulièrement !*
