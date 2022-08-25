@@ -56,16 +56,16 @@
 - **Cinelerra** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Édition audio
-- **Ardour** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Bitwig** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Reaper** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Audacity** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **LMMS** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Ardour** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Bitwig** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Reaper** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Audacity** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **LMMS** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Édition d'images
-- **Drawing** (Dessin) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **GIMP** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Krita** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Drawing (Dessin)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **GIMP** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Krita** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Conversion & découpe de documents
 - **Image Magick (convert)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
@@ -77,7 +77,7 @@
 - **optipng** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Curtail** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
-## Publicatino assistée par ordinateur
+## Publication assistée par ordinateur
 - **Scribus** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Dessin vectoriel
@@ -96,23 +96,23 @@
 - **BleachBit** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **fdupes** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **ncdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Baobab** (Analyseur d’utilisation des disques) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Baobab (Analyseur d’utilisation des disques)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Filelight** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Metadata Cleaner (Nettoyeur de métadonnées)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Lecteur vidéo
 - **Celluloid** (anciemment *gnome-mpv*) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **SMPlayer** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **VLC** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Kodi** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **SMPlayer** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **VLC** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Kodi** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Lecteur d'e-books
 - **Foliate** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Calibre** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Calibre** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Lecteur audio 
 - **Lollypop** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **gnome-music** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **gnome-music (Musique)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Mousai** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Récupération de données
