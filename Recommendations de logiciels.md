@@ -14,8 +14,8 @@
 <img title="Logiciel en ligne de commande" src="https://raw.githubusercontent.com/google/material-design-icons/master/png/action/terminal/materialiconstwotone/48dp/1x/twotone_terminal_black_48dp.png" height="20"> Logiciel en ligne de commande
 
 ## Informations système
-- **CPU-X**
-- **inxi -F**
+- **CPU-X** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **inxi -F** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Bloqueur de publicités
 - **uBlock Origin**
@@ -28,134 +28,134 @@
 - **~Avast~** (ou autre antivirus gratuit), protège moins bien que Microsoft Defender, consomme plus de ressources, collecte tout autant voir plus de données personnelles, et martèle de publicités. Relève plus du logiciel malveillant que de l’antivirus.
 
 ## VPN
-- **ProtonVPN**
-- **Mullvad**
+- **ProtonVPN** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Mullvad** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Moniteur système
-- **htop**
-- **Btop++**
-- **iotop**
+- **htop** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Btop++** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **iotop** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Overlay de jeux vidéo
-- **MangoHUD**
+- **MangoHUD** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Sauvegardes
-- **rsync**
-- **Déjà Dup**
-- **Grsync**
-- **Timeshift**
+- **rsync** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Déjà Dup** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Grsync** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Timeshift** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Montage vidéo
-- **DaVinci Resolve**
-- **Kdenlive**
-- **OpenShot**
-- **Flowblade**
-- **Pitivi**
-- **Shotcut**
-- **Olive**
-- **Cinelerra**
+- **DaVinci Resolve** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Kdenlive** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **OpenShot** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Flowblade** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Pitivi** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Shotcut** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Olive** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Cinelerra** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Édition audio
-- **Ardour**
-- **Bitwig**
-- **Reaper**
-- **Tenacity**
-- **LMMS**
+- **Ardour** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Bitwig** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Reaper** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Audacity** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **LMMS** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Édition d'images
-- **Drawing**
-- **GIMP**
-- **Krita**
+- **Drawing** (Dessin) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **GIMP** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Krita** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Conversion & découpe de documents
-- **Image Magick (convert)**
-- **PDF Slicer**
-- **PDFsam**
+- **Image Magick (convert)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **PDF Slicer** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **PDFsam** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Compression de documents
-- **jpegoptim**
-- **optipng**
-- **Curtail**
+- **jpegoptim** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **optipng** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Curtail** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Publicatino assistée par ordinateur
-- **Scribus**
+- **Scribus** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Dessin vectoriel
-- **InkScape**
+- **InkScape** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Édition de sous-titres
-- **Gaupol**
-- **Aegisub**
+- **Gaupol** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Aegisub** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Nettoyage
 - **~CCleaner~**, a été racheté par un consortium chinois, est devenu un logiciel espion. De plus, les versions récentes de Windows ne nécessitent pas d’être nettoyés comme par le passé.
-- **rmlint**
-- **gdu**
-- **Czkawka**
-- **Identity**
-- **BleachBit**
-- **fdupes**
-- **ncdu**
-- **baobab**
-- **Fileligh**t
-- **Metadata Cleaner (Nettoyeur de métadonnées)**
+- **rmlint** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **gdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Czkawka** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Identity** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **BleachBit** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **fdupes** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **ncdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Baobab** (Analyseur d’utilisation des disques) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Filelight** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Metadata Cleaner (Nettoyeur de métadonnées)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Lecteur vidéo
-- **Celluloid** (anciemmente *gnome-mpv*)
-- **SMPlayer**
-- **VLC**
-- **Kodi**
+- **Celluloid** (anciemment *gnome-mpv*) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **SMPlayer** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **VLC** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Kodi** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Lecteur d'e-books
-- **Foliate**
-- **Calibre**
+- **Foliate** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Calibre** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Lecteur audio 
-- **Lollypop**
-- **gnome-music**
-- **Mousai**
+- **Lollypop** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **gnome-music** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Mousai** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Récupération de données
-- **TestDisk** (software failure)
-- **ddrescue** (hardware failure)
-- **Photorec**
+- **TestDisk** (pour problèmes logiciels) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **ddrescue** (pour problèmes matériels) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Photorec** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Rip de CD audios
-- **Sound Juicer**
-- **fre:ac**
+- **Sound Juicer** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **fre:ac** 
 
 ## Graveur DVD
-- **DVD Styler**
-- **growisofs**
-- **Brasero**
-- **K3b**
+- **DVD Styler** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **growisofs** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Brasero** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **K3b** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Prise de notes
-- **Joplin**
-- **Paper**
-- **Mark Text**
-- **Obsidian** (non-libre)
+- **Joplin** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Paper** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Mark Text** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Obsidian** (non-libre) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Lecteur Markdown
-- **Apostrophe**
+- **Apostrophe** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Torrents
-- **qBittorrent**
-- **Deluge**
-- **Transmission**
-- **Fragments**
+- **qBittorrent** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Deluge** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Transmission** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Fragments** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Suite bureautique
-- **LibreOffice**
-- **OnlyOffice**
+- **LibreOffice** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **OnlyOffice** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Effacement sécurisé de disques
-- **shred** `# shred -vzn 0 /dev/sdX`
-- **nwipe**
+- **shred** `# shred -vzn 0 /dev/sdX` <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **nwipe** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Renommage en masse de fichiers
-- **rename**
-- **Szyszka**
+- **rename** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Szyszka** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Télé-assistance
-- **RustDesk**
+- **RustDesk** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
