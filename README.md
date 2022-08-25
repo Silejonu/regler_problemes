@@ -10,13 +10,6 @@ Paramètres -> Paramètres avancés -> Système -> Accéder aux paramètres de p
 ### macOS
 🍎 -> Préférences Système… -> Réseau -> Avancé… -> Proxys -> Découverte auto proxy
 
-## Désactiver Intel RST
-Disponible dans le BIOS. L’option est parfois cachée. À ce moment-là, faire `Ctrl + s` pour la faire apparaître.
-
-## Touches de clavier Apple inversées sous Linux
-1. [Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
-2. [Solution de repli](https://askubuntu.com/a/572670)
-
 ## Installer Windows sans compte Microsoft
 ### Windows 10
 Au moment de se connecter à un compte Microsoft, débrancher la connexion internet et cliquer sur « Créer un compte »
@@ -28,6 +21,21 @@ Au moment de se connecter à un compte Microsoft, débrancher la connexion inter
 ## Imprimante ou scanner non reconnu sous Linux
 
 Des scripts pour faire fonctionner les modèles déjà rencontrés sont disponibles [dans ce dossier](https://github.com/at2f/regler_problemes/tree/main/Imprimantes%20%26%20scanners). Pour les autres modèles, suivre les instructions disponibles sur [la documentation Ubuntu francophone](https://doc.ubuntu-fr.org/imprimante#installation_selon_la_marque).
+
+## Pas de correction automatique dans Firefox sous Linux Mint
+
+Fermer Firefox, puis lancer la commande suivante :
+```
+echo 'user_pref("spellchecker.dictionary_path", "/usr/share/hunspell");' >> "$(find ${HOME}/.mozilla/firefox -iname *default-*)/prefs.js"
+```
+Ensuite, réouvrir Firefox, faire un clic-droit dans un champ de texte, et choisir « Français (France) ».
+
+## Désactiver Intel RST
+Disponible dans le BIOS. L’option est parfois cachée. À ce moment-là, faire `Ctrl + s` pour la faire apparaître.
+
+## Touches de clavier Apple inversées sous Linux
+1. [Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
+2. [Solution de repli](https://askubuntu.com/a/572670)
 
 # Systèmes d’exploitation utiles
 
