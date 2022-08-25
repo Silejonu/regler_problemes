@@ -125,29 +125,29 @@
 - **fre:ac** 
 
 ## Graveur DVD
-- **DVD Styler** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **DVD Styler** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 - **growisofs** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Brasero** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **K3b** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Prise de notes
-- **Joplin** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Joplin** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 - **Paper** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Mark Text** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Obsidian** (non-libre) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **MarkText** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Obsidian** (non-libre) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Lecteur Markdown
 - **Apostrophe** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Torrents
-- **qBittorrent** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Deluge** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **qBittorrent** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **Deluge** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 - **Transmission** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Fragments** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Suite bureautique
-- **LibreOffice** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **OnlyOffice** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **LibreOffice** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **ONLYOFFICE Desktop Editors** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Effacement sécurisé de disques
 - **shred** `# shred -vzn 0 /dev/sdX` <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
@@ -155,7 +155,7 @@
 
 ## Renommage en masse de fichiers
 - **rename** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Szyszka** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **Szyszka** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Télé-assistance
-- **RustDesk** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **RustDesk** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
