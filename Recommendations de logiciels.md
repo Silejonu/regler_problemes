@@ -88,14 +88,14 @@
 - **Aegisub** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Nettoyage
-- **~CCleaner~**, a été racheté par un consortium chinois, est devenu un logiciel espion. De plus, les versions récentes de Windows ne nécessitent pas d’être nettoyés comme par le passé.
+- **~CCleaner~** <img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20"> a été racheté par un consortium chinois, est devenu un logiciel espion. De plus, les versions récentes de Windows ne nécessitent pas d’être nettoyés comme par le passé.
 - **rmlint** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **gdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Czkawka** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **gdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20">
+- **Czkawka** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 - **Identity** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **BleachBit** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **fdupes** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **ncdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **BleachBit** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **fdupes** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20">
+- **ncdu** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20">
 - **Baobab (Analyseur d’utilisation des disques)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Filelight** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **Metadata Cleaner (Nettoyeur de métadonnées)** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
@@ -116,17 +116,17 @@
 - **Mousai** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
 ## Récupération de données
-- **TestDisk** (pour problèmes logiciels) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **ddrescue** (pour problèmes matériels) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **Photorec** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **TestDisk** (pour problèmes logiciels) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
+- **ddrescue** (pour problèmes matériels) <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20">
+- **Photorec** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Rip de CD audios
 - **Sound Juicer** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **fre:ac** 
+- **fre:ac** <img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Graveur DVD
 - **DVD Styler** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
-- **growisofs** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **growisofs** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20">
 - **Brasero** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 - **K3b** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
 
@@ -150,8 +150,7 @@
 - **ONLYOFFICE Desktop Editors** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20"><img title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="20">
 
 ## Effacement sécurisé de disques
-- **shred** `# shred -vzn 0 /dev/sdX` <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
-- **nwipe** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
+- **shred** `# shred -vzn 0 /dev/sdX` <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20"><img title="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="20">
 
 ## Renommage en masse de fichiers
 - **rename** <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20">
