@@ -48,7 +48,7 @@ Des scripts pour faire fonctionner les modèles déjà rencontrés sont disponib
 ## Pas de correction automatique dans Firefox sous Linux Mint
 
 Fermer Firefox, puis lancer la commande suivante :
-```
+```bash
 echo 'user_pref("spellchecker.dictionary_path", "/usr/share/hunspell");' >> "$(find ${HOME}/.mozilla/firefox -iname *default-*)/prefs.js"
 ```
 Ensuite, réouvrir Firefox, faire un clic-droit dans un champ de texte, et choisir « Français (France) ».
