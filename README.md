@@ -56,6 +56,14 @@ Ensuite, réouvrir Firefox, faire un clic-droit dans un champ de texte, et chois
 ## Désactiver Intel RST
 Disponible dans le BIOS. L’option est parfois cachée. À ce moment-là, faire `Ctrl + s` pour la faire apparaître.
 
+## Réparer les fichiers systèmes sous Windows
+
+https://github.com/at2f/regler_problemes/blob/main/Windows/reparer_fichiers_systemes.bat
+
+## Réinitialiser Windows Update aux paramètres par défaut
+
+https://github.com/at2f/regler_problemes/blob/main/Windows/reset_windows_update.bat
+
 ## Touches de clavier Apple inversées sous Linux
 1. [Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
 2. [Solution de repli](https://askubuntu.com/a/572670)
