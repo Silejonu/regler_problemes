@@ -7,6 +7,7 @@
 - [r/firefox](https://www.reddit.com/r/firefox)
 - [r/linux4noobs](https://www.reddit.com/r/linux4noobs)
 - [r/bash](https://www.reddit.com/r/bash)
+- [r/commandline](https://www.reddit.com/r/commandline)
 
 # Linux
 - [Linux Journey](https://linuxjourney.com/)
