@@ -8,11 +8,13 @@
 - [r/linux4noobs](https://www.reddit.com/r/linux4noobs)
 - [r/bash](https://www.reddit.com/r/bash)
 - [r/commandline](https://www.reddit.com/r/commandline)
+- [r/cybersecurity](https://www.reddit.com/r/cybersecurity)
+- [r/linuxquestions](https://www.reddit.com/r/linuxquestions)
 
 # Linux
-- [Linux Journey](https://linuxjourney.com/)
-- [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
-- [The Linux Experiment](https://www.youtube.com/c/TheLinuxExperiment)
+- [Linux Journey](https://linuxjourney.com/) (chaîne YouTube)
+- [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA) (chaîne YouTube)
+- [The Linux Experiment](https://www.youtube.com/c/TheLinuxExperiment) (chaîne YouTube)
 - [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)
 - [Arch Linux wiki](https://wiki.archlinux.org/) la ressource ultime du monde Linux, l’immense majorité du contenu est applicable à toutes les distributions
 - [cheat.sh](http://cheat.sh/) cheatsheet en ligne (accessible également depuis le terminal via `curl`) avec exemples 
