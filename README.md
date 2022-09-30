@@ -68,6 +68,21 @@ https://github.com/at2f/regler_problemes/blob/main/Windows/reset_windows_update.
 1. [Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
 2. [Solution de repli](https://askubuntu.com/a/572670)
 
+# Post-installations
+
+## À lancer après une installation de Linux
+```bash
+cd $(mktemp -d)
+wget https://github.com/Silejonu/Linux-desktop-post-install/archive/refs/heads/main.tar.gz
+tar xf main.tar.gz
+cd Linux-desktop-post-install-main
+bash ./linux_desktop_post-install.sh
+```
+[Dépôt GitHub du projet.](https://github.com/Silejonu/Linux-desktop-post-install)
+
+## À lancer après une installation de Windows
+
+
 # Systèmes d’exploitation utiles
 
 Installer [Ventoy](https://ventoy.net/) sur une clé USB, puis copier/coller les images `.iso` sur la clé pour les démarrer. *Ne pas oublier de mettre à jour Ventoy régulièrement !*
