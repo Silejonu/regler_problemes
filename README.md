@@ -70,7 +70,7 @@ https://github.com/at2f/regler_problemes/blob/main/Windows/reset_windows_update.
 
 # Post-installations
 
-## À lancer après une installation de Linux
+## À faire après une installation de Linux
 ```bash
 cd $(mktemp -d)
 wget https://github.com/Silejonu/Linux-desktop-post-install/archive/refs/heads/main.tar.gz
@@ -80,7 +80,13 @@ bash ./linux_desktop_post-install.sh
 ```
 [Dépôt GitHub du projet.](https://github.com/Silejonu/Linux-desktop-post-install)
 
-## À lancer après une installation de Windows
+## À faire après une installation de Windows
+1. Mettre à jour les logiciels dans le Microsoft Store (cela installera `winget` qui ne l’est pas par défaut).
+2. Autoriser l’éxecution de scripts pour la session actuelle :
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+3. Exécuter [le script suivante](https://github.com/at2f/regler_problemes/blob/main/Windows/post-installation_windows.ps1).
 
 
 # Systèmes d’exploitation utiles
