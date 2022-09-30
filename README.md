@@ -71,12 +71,9 @@ https://github.com/at2f/regler_problemes/blob/main/Windows/reset_windows_update.
 # Post-installations
 
 ## À faire après une installation de Linux
+Exécuter la commande suivante :
 ```bash
-cd $(mktemp -d)
-wget https://github.com/Silejonu/Linux-desktop-post-install/archive/refs/heads/main.tar.gz
-tar xf main.tar.gz
-cd Linux-desktop-post-install-main
-bash ./linux_desktop_post-install.sh
+cd $(mktemp -d) && wget https://github.com/Silejonu/Linux-desktop-post-install/archive/refs/heads/main.tar.gz && tar xf main.tar.gz && cd Linux-desktop-post-install-main && bash ./linux_desktop_post-install.sh
 ```
 [Dépôt GitHub du projet.](https://github.com/Silejonu/Linux-desktop-post-install)
 
