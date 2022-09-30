@@ -64,6 +64,9 @@ https://github.com/at2f/regler_problemes/blob/main/Windows/reparer_fichiers_syst
 
 https://github.com/at2f/regler_problemes/blob/main/Windows/reset_windows_update.bat
 
+## Système de fichier EXT4 sous Linux corrompu, le PC ne démarre pas et bute sur un message d’erreur de l’initramfs
+Démarrer sur une clé en live et réparer le système de fichier avec `sudo fsck -y /dev/sdX` (remplacer `sdX` par le disque approprié).
+
 ## Touches de clavier Apple inversées sous Linux
 1. [Solution préférable](https://help.ubuntu.com/community/AppleKeyboard#Correcting_swapped_keys_and_wrong_keymaps_for_international_.28non-US.29_keyboards)
 2. [Solution de repli](https://askubuntu.com/a/572670)
